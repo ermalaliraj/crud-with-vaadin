@@ -2,19 +2,18 @@
 
 A simple CRUD web application using Vaadin.
 
-As prerequisites you would need:
+## Pre-requisites
+
 - Java 8 
 - Maven
 
-## Git
+## Download and build the project
 
 Get the repository locally:
 
 ```
 git clone https://github.com/ermalaliraj/crud-with-vaadin.git
 ```
-
-## Build the project
 
 Use maven to build the project.
 
