@@ -34,6 +34,6 @@ The Application should now be running and listening in http://127.0.0.1:8080
  
 
 # See
-* [Creating CRUD UI with Vaadin](https://spring.io/guides/gs/crud-with-vaadin/) Spring.io guide
+* [Creating CRUD UI with Vaadin - spring.io](https://spring.io/guides/gs/crud-with-vaadin/)
  
  
