@@ -26,10 +26,10 @@ Afterwards you will have a target folder containing a jar file needed to run the
  
 ## Run the Application
 
-1. First make sure that the jar file is present (crud-with-vaadin/target/crud-with-vaadin.jar)
+1. First make sure that the jar file is present (crud-with-vaadin/target/crud-with-vaadin-0.1.0.jar)
 2. Use the following command to run the application:
 ```
-java -jar target\crud-with-vaadin.jar
+java -jar target\crud-with-vaadin-0.1.0.jar
 ```
 3. The Application should now be running and listening in http://127.0.0.1:8080 
 
