@@ -32,6 +32,10 @@ The Application should now be running and listening in http://127.0.0.1:8080
 
 ![app](./doc/homepage.png)
  
+# TODO
+tests running through mvn install command line do not succeed.
+Run clean/install using IDE.
+ 
 
 # See
 * [Creating CRUD UI with Vaadin - spring.io](https://spring.io/guides/gs/crud-with-vaadin/)
