@@ -33,7 +33,6 @@ java -jar target\crud-with-vaadin.jar
 ```
 3. The Application should now be running and listening in http://127.0.0.1:8080 
 
-4. Home page
 ![app](./doc/homepage.png)
  
 
