@@ -18,8 +18,8 @@ git clone https://github.com/ermalaliraj/crud-with-vaadin.git
 Use maven to build the project.
 
 ```
-cd crud-with-vaadin
-mvn clean install
+1. cd crud-with-vaadin
+2. mvn clean install
 ```
 Afterwards you will have a target folder containing a jar file (./target/crud-with-vaadin-0.1.0.jar) needed to run the application.
  
